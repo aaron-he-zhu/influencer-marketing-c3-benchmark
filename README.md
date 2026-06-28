@@ -1,5 +1,7 @@
 # C³ — Influencer Marketing Scoring Standard
 
+> **📦 Merged into [aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills)** — the C³ framework now ships inside the unified marketing skills library (v10.0.0) alongside the CORE-EEAT and CITE frameworks and 38 marketing skills. This repo remains as the standalone source.
+
 > An open evaluation standard for influencer marketing. It scores at **three nested scopes** — **C**reator · **C**ontent · **C**ampaign — each on a lean three-dimension rubric (**ACE · ART · ROI**). Nine dimensions, ~36 Pass/Partial/Fail checks.
 
 ## Why C³
